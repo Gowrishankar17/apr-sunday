@@ -1,0 +1,51 @@
+GIT:
+
+1.  What is GIT?
+2.  What is GITHUB?
+3.  What is diff btw GIT vs GITHUB?
+4.  What is diff btw GIT vs SVN?
+5.  What is GIT Merge?
+6.  What is GIT Rebase?
+7.  Diff btw GIT Merge & GIT Rebase?
+8.  How will you resolve Merge Conflicts?
+9.  Diff Btw Fork,Clone & Branch?
+10. Diff btw Pull & Fetch?
+11. What is GIT Push?
+12. What is GIT Clone?
+13. How many ways we clone our repo?
+14. What is GIT Stash?
+15. What is .gitignore?
+16. What is the difference between git stash apply vs git stash pop command?
+17. What is GIT Cherry-pick?
+18. What is Pull Request in GIT?
+19. What are the branching strategy or git workflow?
+20. What is GIT Squash?
+21. How to revert a bad commit which is already pushed?
+22. How to revert previous commit in git?
+23. Diff btw GIT soft reset & hard reset?
+24. Diff btw GIT Local vs GIT Remote?
+25. What is GIT Fork?
+26. Diff btw Revert & reset?
+27. How to disable forking in github?
+28. How will you secure your github account?
+29. Command to Create Branch, Delete branch, Rename a branch
+30. How will you switch from one branch to another branch
+31. Command to restore delete branch
+32. Command to merge feature to master/main branch
+33. Command to check merged branches in master
+34. What is the command to modify or change your commit?
+35. How to restrict commit on github?
+36. How to remove a file from git without removing it from your file system?
+37. When do you use git rebase instead of git merge?
+38. What is command to create/delete/rename a user in github?
+39. What is GITHUB Actions and how it works?
+40. Diff Btw GITHUB & Github Actions? Diff btw Github actions & Jenkins?
+
+
+
+
+
+
+
+
+  
